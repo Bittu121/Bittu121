@@ -7,7 +7,7 @@
 🌱 Learning **System Design, TypeScript & Scalable Architecture**  
 💬 Ask me about **React, Redux, JavaScript, Node.js, MongoDB**  
 📫 Reach me at: **bittukumar8713@gmail.com**  
-🌐 Portfolio: [bittuportfolio.com](https://bittuportfolio.com) <!-- replace with actual link if available -->
+🌐 Portfolio: [bittuportfolio.com](https://personalportfolio-web-app.onrender.com/)
 
 ---
 
