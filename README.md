@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bittu Kumar</h1>
-<h3 align="center">Frontend Developer | MERN Stack | Problem Solver</h3>
+<h3 align="center">Frontend Developer | MERN Stack</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently building **modern web applications** with the MERN stack  
-- 🌱 Exploring **System Design, TypeScript & Scalable Architecture**  
-- 💬 Ask me about **React, Redux, JavaScript, Node.js, MongoDB**  
-- 📫 Reach me at: **bittukumar8713@gmail.com**  
+- Building **modern, responsive web applications** with the MERN stack  
+- Learning **System Design, TypeScript & Scalable Architecture**  
+- Skilled in **React, Redux, JavaScript, Node.js, MongoDB**  
+- 📫 Reach me: **bittukumar8713@gmail.com**  
 - 🌐 Portfolio: [bittuportfolio.com](https://personalportfolio-web-app.onrender.com/)  
 
 ---
@@ -31,7 +31,7 @@
 
 ---
 
-### 📫 Connect With Me
+### 🤝 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/bittu-kumar143/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-BittuKumar-blue?style=flat&logo=linkedin"/>
