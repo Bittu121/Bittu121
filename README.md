@@ -11,11 +11,9 @@
 
 ---
 
-### About
-I build web applications that are **simple, reliable, and easy to maintain**.  
-My focus is on writing clean frontend code with a solid understanding of backend systems.
-
-I value clarity in code, predictable behavior, and thoughtful user experience.
+### Summary
+I have experience building and maintaining scalable web applications using the MERN stack.  
+My work includes developing RESTful APIs and creating responsive, user-friendly interfaces to solve real-world problems in production environments.
 
 ---
 
@@ -27,9 +25,9 @@ I value clarity in code, predictable behavior, and thoughtful user experience.
 ---
 
 ### Currently Learning
-- System design 
+- System design fundamentals  
 - Scalable frontend architecture  
-- Writing type-safe and maintainable code
+- Writing clean and maintainable TypeScript code
 
 ---
 
@@ -40,22 +38,22 @@ I value clarity in code, predictable behavior, and thoughtful user experience.
 
 ---
 
-### GitHub Overview
+### GitHub Activity
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bittu121&show_icons=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=333&bg_color=ffffff" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittu121&layout=compact&hide_border=true&title_color=ff0000&text_color=333&bg_color=ffffff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bittu121&show_icons=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=2d2d2d&bg_color=ffffff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittu121&layout=compact&hide_border=true&title_color=ff0000&text_color=2d2d2d&bg_color=ffffff" height="160"/>
 </p>
 
 ---
 
 ### Work Values
 - Clear and readable code  
-- Simple and practical solutions  
+- Practical problem solving  
 - Long-term maintainability  
 - Continuous improvement
 
 ---
 
 <p align="center">
-  <i>Open to frontend and full-stack roles</i>
+  <i>Open to frontend and full-stack software engineering roles</i>
 </p>
