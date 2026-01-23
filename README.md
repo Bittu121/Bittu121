@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bittu Kumar</h1>
-<h3 align="center">Frontend Developer | MERN Stack</h3>
+<h3 align="center">Software Developer</h3>
 
 ---
 
