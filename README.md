@@ -1,45 +1,50 @@
-<h1 align="center">Hi 👋, I'm Bittu Kumar</h1>
-<h3 align="center">Frontend Developer | MERN Stack</h3>
-
----
-
-### 👨‍💻 About Me
-- Building **modern, responsive web applications** with the MERN stack  
-- Learning **System Design, TypeScript & Scalable Architecture**  
-- Skilled in **React, Redux, JavaScript, Node.js, MongoDB**  
-- 📫 Reach me: **bittukumar8713@gmail.com**  
-- 🌐 Portfolio: [bittuportfolio.com](https://personalportfolio-web-app.onrender.com/)  
-
----
-
-### 🚀 Tech Stack
+<h1 align="center">Bittu Kumar</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,mysql,cpp,python" />
+  <b>Frontend Developer · MERN Stack</b>
+</p>
+
+<p align="center">
+  <a href="https://personalportfolio-web-app.onrender.com/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/bittu-kumar143/">LinkedIn</a> •
+  <a href="mailto:bittukumar8713@gmail.com">Email</a>
 </p>
 
 ---
 
-### 📊 GitHub Highlights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bittu121&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittu121&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
+### About
+I build **clean, scalable, user-focused web applications**.  
+Strong in frontend engineering with solid backend understanding.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bittu121&theme=tokyonight&hide_border=true" height="180px"/>
+- Frontend: **React, Redux, JavaScript**
+- Backend: **Node.js, Express, MongoDB**
+- Currently learning: **System Design, TypeScript, Scalable Architecture**
+- Interested in **product-driven engineering teams**
+
+---
+
+### Tech I Work With
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,mongodb,html,css,cpp,python" />
 </p>
 
 ---
 
-### 🤝 Connect
+### GitHub Snapshot
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=bittu121&show_icons=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=333&bg_color=ffffff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittu121&layout=compact&hide_border=true&title_color=ff0000&text_color=333&bg_color=ffffff" height="160"/>
+</p>
+
+---
+
+### What I Value
+- Readable & maintainable code  
+- Thoughtful UI/UX  
+- Real-world problem solving  
+- Continuous learning
+
+---
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/bittu-kumar143/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-BittuKumar-blue?style=flat&logo=linkedin"/>
-  </a>
-  <a href="mailto:bittukumar8713@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bittukumar8713%40gmail.com-red?style=flat&logo=gmail"/>
-  </a>
-  <a href="https://personalportfolio-web-app.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=vercel"/>
-  </a>
+  <i>Open to frontend / full-stack opportunities</i>
 </p>
