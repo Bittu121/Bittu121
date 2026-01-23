@@ -17,8 +17,7 @@
 
 ## About
 
-Software Engineer passionate about crafting **pixel-perfect interfaces** and **scalable backend systems**.  
-I build web applications using the **MERN stack** — from RESTful APIs to responsive, user-friendly frontends.
+I have experience building and maintaining scalable web applications that solve complex problems using the MERN stack. My work includes developing RESTful APIs and creating responsive, user-friendly interfaces, enabling me to apply these skills to real-world projects and contribute to efficient solutions in dynamic environments
 
 <br>
 
@@ -101,7 +100,7 @@ I build web applications using the **MERN stack** — from RESTful APIs to respo
 
 <br>
 
-![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-00C853?style=for-the-badge&logoColor=white)
+## ![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-00C853?style=for-the-badge&logoColor=white)
 
 **Seeking Frontend & Full-Stack Engineering Roles**
 
