@@ -100,7 +100,6 @@ I have experience building and maintaining scalable web applications that solve 
 
 <br>
 
-## ![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-00C853?style=for-the-badge&logoColor=white)
 
 **Seeking Frontend & Full-Stack Engineering Roles**
 
