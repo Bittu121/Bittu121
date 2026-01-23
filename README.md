@@ -24,7 +24,7 @@ Strong in frontend engineering with solid backend understanding.
 
 ### Tech I Work With
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,mongodb,html,css,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,mongodb,html,css,cpp" />
 </p>
 
 ---
