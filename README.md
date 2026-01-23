@@ -1,6 +1,6 @@
 <h1 align="center">Bittu Kumar</h1>
 <p align="center">
-  Software Developer · Frontend & MERN Stack
+  Software Engineer
 </p>
 
 <p align="center">
@@ -11,27 +11,25 @@
 
 ---
 
-### Overview
-I’m a software developer focused on building **reliable, scalable, and user-centric web applications**.  
-I work primarily on frontend systems while maintaining a strong understanding of backend architecture.
+### About
+I build web applications that are **simple, reliable, and easy to maintain**.  
+My focus is on writing clean frontend code with a solid understanding of backend systems.
 
-I care about **code quality, performance, and real-world usability** — not just making things work, but making them last.
+I value clarity in code, predictable behavior, and thoughtful user experience.
 
 ---
 
-### Core Skills
+### Skills
 - **Frontend:** React, Redux, JavaScript, TypeScript, HTML, CSS  
 - **Backend:** Node.js, Express, MongoDB  
-- **Programming:** C++  
-- **Concepts:** Component architecture, API design, state management, scalability basics
+- **Programming:** C++
 
 ---
 
-### Currently Exploring
-- System Design fundamentals  
+### Currently Learning
+- System design 
 - Scalable frontend architecture  
-- Type-safe development with TypeScript  
-- Writing maintainable codebases for long-term growth
+- Writing type-safe and maintainable code
 
 ---
 
@@ -42,7 +40,7 @@ I care about **code quality, performance, and real-world usability** — not jus
 
 ---
 
-### GitHub Activity
+### GitHub Overview
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=bittu121&show_icons=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=333&bg_color=ffffff" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittu121&layout=compact&hide_border=true&title_color=ff0000&text_color=333&bg_color=ffffff" height="160"/>
@@ -50,14 +48,14 @@ I care about **code quality, performance, and real-world usability** — not jus
 
 ---
 
-### Engineering Values
-- Clean and readable code  
-- Thoughtful UI/UX decisions  
-- Solving practical, real-world problems  
-- Continuous improvement through learning
+### Work Values
+- Clear and readable code  
+- Simple and practical solutions  
+- Long-term maintainability  
+- Continuous improvement
 
 ---
 
 <p align="center">
-  <i>Open to frontend and full-stack software development opportunities</i>
+  <i>Open to frontend and full-stack roles</i>
 </p>
