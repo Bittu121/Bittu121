@@ -124,11 +124,8 @@ Client (React) → API (Node.js/Express) → MongoDB
 
 ## GitHub Activity
 
-## GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bittu121&show_icons=true&hide_border=true&theme=default&cache_seconds=1800" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittu121&layout=compact&hide_border=true&theme=default&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bittu121&theme=minimal" />
 </p>
 
 ---
