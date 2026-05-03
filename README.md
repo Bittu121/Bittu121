@@ -2,7 +2,7 @@
 
 # Bittu Kumar
 
-**Software Engineer**
+**Full-Stack Engineer (MERN) · Scalable Systems · Production-Ready Applications**
 
 <br>
 
@@ -17,8 +17,11 @@
 
 ## About
 
-I have experience building and maintaining scalable web applications using the MERN stack.  
-My work includes developing RESTful APIs and creating responsive, user-friendly interfaces to solve real-world problems in production environments.
+Full-stack engineer specializing in building **scalable, production-grade web applications** using the MERN stack.
+
+Experienced in designing **end-to-end systems** — from performant frontend architectures to robust backend services — with a focus on clean code, maintainability, and real-world usability.
+
+Strong problem-solving foundation with Data Structures & Algorithms, and growing expertise in **system design and scalable architectures**.
 
 ---
 
@@ -38,20 +41,42 @@ My work includes developing RESTful APIs and creating responsive, user-friendly 
 
 ---
 
-## Skills
+## Engineering Strengths
 
-| Area | Details |
-|-----|--------|
-| Frontend | React, Redux, TypeScript, JavaScript, HTML, CSS |
-| Backend | Node.js, Express, MongoDB, REST APIs |
-| Programming | C++, Data Structures, Algorithms |
+- Designed and integrated **RESTful APIs** for real-world production use cases  
+- Built responsive, high-performance UIs with **React + TypeScript**  
+- Implemented **state management using Redux Toolkit** for scalable frontend logic  
+- Developed backend systems with **Node.js + Express + MongoDB**  
+- Focused on **clean architecture, modular code, and maintainability**  
+- Debugging and resolving complex issues independently across full stack  
 
 ---
 
-## Currently Learning
-- System design fundamentals  
-- Scalable frontend architecture  
-- Writing clean and maintainable TypeScript
+## Selected Work
+
+### 🔹 Scalable Admin Dashboard
+- Role-based access (User / Admin / Super Admin)
+- Real-time user activity tracking
+- Modular API structure with clean separation of concerns
+- Fully responsive production UI
+
+### 🔹 Travel Request & Approval System
+- End-to-end workflow (request → approval → tracking)
+- File upload handling and structured data management
+- Designed for scalability with future real-time updates (WebSockets)
+
+### 🔹 SMTP Testing Platform (Mailtrap-like)
+- Multi-project architecture with isolated email environments
+- Custom SMTP credential generation
+- Scalable backend design for high-volume email testing
+
+---
+
+## Currently Leveling Up
+
+- System Design (Low-Level + High-Level)
+- Scalable frontend architecture patterns
+- Performance optimization & caching strategies
 
 ---
 
@@ -67,16 +92,17 @@ My work includes developing RESTful APIs and creating responsive, user-friendly 
 
 ---
 
-## Work Values
-- Clear and readable code  
-- Practical problem solving  
-- Scalable and maintainable systems  
-- Continuous learning
+## Work Philosophy
+
+- Build systems, not just features  
+- Optimize for scalability from day one  
+- Write code that other engineers can maintain  
+- Focus on real-world impact over theoretical perfection  
 
 ---
 
 <div align="center">
 
-**Open to Frontend & Full-Stack Engineering Roles**
+🚀 **Actively seeking SDE-1 (Frontend / Full-Stack) roles in product-based companies**
 
 </div>
