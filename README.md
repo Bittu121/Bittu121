@@ -2,7 +2,7 @@
 
 # Bittu Kumar
 
-**Full-Stack Developer · Scalable Systems · Production Mindset**
+**Full-Stack Developer · Scalable Systemst**
 
 <br>
 
@@ -19,9 +19,9 @@
 
 Full-stack engineer focused on building **scalable, production-grade systems**.
 
-I design and develop **end-to-end applications** — from performant frontend architectures to reliable backend services — with strong emphasis on **clean code, maintainability, and real-world usability**.
+I design and develop **end-to-end applications** — from performant frontend architectures to reliable backend services **clean code, maintainability, and real-world usability**.
 
-Strong foundation in **Data Structures & Algorithms**, actively building expertise in **system design and scalable architecture**.
+Strong foundation in **Data Structures & Algorithms**, actively building skill in **system design and scalable architecture**.
 
 ---
 
@@ -107,10 +107,10 @@ Client (React) → API (Node.js/Express) → MongoDB
 
 ## Engineering Decisions
 
-* Used MongoDB for flexible schema design
-* Chose Redux Toolkit for scalable state management
-* Avoided premature microservices
-* Prioritized maintainability and readability
+- Used **MongoDB** for flexible schema and fast iteration (trade-off: complex joins)  
+- Chose **Redux Toolkit** for scalable and predictable state management  
+- Tested APIs using **Postman** for validation and debugging  
+- Focused on **clean, modular, and maintainable code structure**
 
 ---
 
@@ -127,15 +127,6 @@ Client (React) → API (Node.js/Express) → MongoDB
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bittu121&theme=minimal" />
 </p>
-
----
-
-## Work Philosophy
-
-* Build systems, not just features
-* Optimize for scalability from day one
-* Write maintainable code
-* Focus on real-world impact
 
 ---
 
