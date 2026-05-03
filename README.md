@@ -2,7 +2,7 @@
 
 # Bittu Kumar
 
-**Full-Stack Engineer (MERN) · Scalable Systems · Production-Ready Applications**
+**Full-Stack Engineer (MERN) · Scalable Systems · Production Mindset**
 
 <br>
 
@@ -17,66 +17,108 @@
 
 ## About
 
-Full-stack engineer specializing in building **scalable, production-grade web applications** using the MERN stack.
+Full-stack engineer focused on building **scalable, production-grade systems**.
 
-Experienced in designing **end-to-end systems** — from performant frontend architectures to robust backend services — with a focus on clean code, maintainability, and real-world usability.
+I design and develop **end-to-end applications** — from performant frontend architectures to reliable backend services — with strong emphasis on **clean code, maintainability, and real-world usability**.
 
-Strong problem-solving foundation with Data Structures & Algorithms, and growing expertise in **system design and scalable architectures**.
+Strong foundation in **Data Structures & Algorithms**, actively building expertise in **system design and scalable architecture**.
 
 ---
 
 ## Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,nodejs,express,mongodb" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-
-</div>
+<p align="center">
+  <b>React · Redux · TypeScript · JavaScript · Node.js · Express · MongoDB</b>
+</p>
 
 ---
 
 ## Engineering Strengths
 
-- Designed and integrated **RESTful APIs** for real-world production use cases  
-- Built responsive, high-performance UIs with **React + TypeScript**  
-- Implemented **state management using Redux Toolkit** for scalable frontend logic  
-- Developed backend systems with **Node.js + Express + MongoDB**  
-- Focused on **clean architecture, modular code, and maintainability**  
-- Debugging and resolving complex issues independently across full stack  
+* Architect scalable frontend systems using **React + TypeScript**
+* Design modular, production-ready **REST APIs**
+* Manage complex state with **Redux Toolkit**
+* Build backend services with **Node.js, Express, MongoDB**
+* Write clean, maintainable, and extensible code
+* Debug and resolve full-stack issues independently
 
 ---
 
 ## Selected Work
 
+### 🔹 Asset Management System *(Primary Project)*
+
+End-to-end system for managing assets, allocation, and tracking.
+
+#### 🧠 System Design
+
+* Modular architecture with separation of concerns
+* Role-based access using JWT + middleware
+* Stateless backend design for scalability
+
+#### ⚙️ Architecture
+
+Client (React) → API (Node.js/Express) → MongoDB
+
+* Centralized error handling
+* Clean folder structure
+* API abstraction layer
+
+#### 📈 Performance
+
+* Improved API response time (~30%)
+* Reduced unnecessary re-renders
+* Efficient state updates using Redux Toolkit
+
+#### 🔐 Security
+
+* JWT-based authentication
+* Role-based authorization
+* Input validation
+
+#### 🔄 Scalability
+
+* Pagination & filtering support
+* Ready for horizontal scaling
+* Microservices-ready structure
+
+---
+
 ### 🔹 Scalable Admin Dashboard
-- Role-based access (User / Admin / Super Admin)
-- Real-time user activity tracking
-- Modular API structure with clean separation of concerns
-- Fully responsive production UI
+
+* Role-based access (User / Admin / Super Admin)
+* Real-time user tracking (architecture ready)
+* Clean API structure
+* Fully responsive UI
+
+---
 
 ### 🔹 Travel Request & Approval System
-- End-to-end workflow (request → approval → tracking)
-- File upload handling and structured data management
-- Designed for scalability with future real-time updates (WebSockets)
 
-### 🔹 SMTP Testing Platform (Mailtrap-like)
-- Multi-project architecture with isolated email environments
-- Custom SMTP credential generation
-- Scalable backend design for high-volume email testing
+* End-to-end workflow system
+* File upload + structured data management
+* Designed for scalability
+
+---
+
+## Engineering Decisions
+
+* Used MongoDB for flexible schema design
+* Chose Redux Toolkit for scalable state management
+* Avoided premature microservices
+* Prioritized maintainability and readability
 
 ---
 
 ## Currently Leveling Up
 
-- System Design (Low-Level + High-Level)
-- Scalable frontend architecture patterns
-- Performance optimization & caching strategies
+* System Design (HLD + LLD)
+* Scalable frontend architecture
+* Performance optimization & caching
 
 ---
 
@@ -84,9 +126,9 @@ Strong problem-solving foundation with Data Structures & Algorithms, and growing
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bittu121&show_icons=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=333333&bg_color=ffffff" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bittu121&show_icons=true&hide_border=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittu121&layout=compact&hide_border=true&title_color=FF0000&text_color=333333&bg_color=ffffff" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittu121&layout=compact&hide_border=true" height="160"/>
 
 </div>
 
@@ -94,10 +136,10 @@ Strong problem-solving foundation with Data Structures & Algorithms, and growing
 
 ## Work Philosophy
 
-- Build systems, not just features  
-- Optimize for scalability from day one  
-- Write code that other engineers can maintain  
-- Focus on real-world impact over theoretical perfection  
+* Build systems, not just features
+* Optimize for scalability from day one
+* Write maintainable code
+* Focus on real-world impact
 
 ---
 
