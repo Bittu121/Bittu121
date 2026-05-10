@@ -32,7 +32,7 @@ Strong foundation in **Data Structures & Algorithms**, actively building skill i
 </p>
 
 <p align="center">
-  <b>React · Redux · TypeScript · JavaScript · Node.js · Express · MongoDB.GitHub Copilot</b>
+  <b>React · Redux · TypeScript · JavaScript · Node.js · Express · MongoDB. GitHub Copilot</b>
 </p>
 
 ---
